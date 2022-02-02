@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @automatedCoffee(Ant)
-- 👀 I’m interested in Automation & Application Development
-- 🌱 I’m currently loving low code RPA 
-- 💞️ I’m looking to collaborate on Power Platform Projects
+- 👀 I’m interested in Automation & Web APP/DAPP Development
+- 🌱 I’m a javascript/Power Platform/ Python acolyte. Levelingup on Solidty. Total Noob rust & powerfx
+- 💞️ I’m looking to learn everything.
 - 📫 How to reach me aettore@aesirinfo.com 
 
 <!---
